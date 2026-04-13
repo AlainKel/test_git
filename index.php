@@ -8,5 +8,6 @@
 <body>
     <p>Paragraphe</p>
     <p>Paragraphe 2</p>
+    <p>Paragraphe 3</p>
 </body>
 </html>
